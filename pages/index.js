@@ -149,7 +149,7 @@ export default function Home() {
             </form>
           </div>
           <div className={styles.footer}>
-            <p>Powered by <a href="https://420.org.in/" target="_blank">AO3</a> & <a href="https://chatveda.com/" target="_blank">Chatveda</a></p>
+            <p>Powered by <a href="https://ao3.space" target="_blank">AO3</a> & <a href="https://chatveda.com/" target="_blank">Chatveda</a></p>
           </div>
         </div>
       </main>
